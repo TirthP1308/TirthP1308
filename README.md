@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tirth Patel.
 - 👀 I’m interested in trying something new with different coding problems.
-- 🌱 I’m currently learning many technical skills like web developement, java, etc.
+- 🌱 I’m currently taking training for .net .
 - 📫 pateltirth1308@gmail.com
                        
 
